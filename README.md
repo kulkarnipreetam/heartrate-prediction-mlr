@@ -1,5 +1,3 @@
-# Security Advisory
-
 ## Important Notice
 
 The code in this repository is proprietary and protected by copyright law. Unauthorized copying, distribution, or use of this code is strictly prohibited. By accessing this repository, you agree to the following terms:
