@@ -62,7 +62,7 @@ For individuals with cardiovascular disease, particularly older adults, monitori
 - Employed **backward deletion**, **best subsets**, and **stepwise regression** methods to identify optimal models.  
 - Two candidate models were finalized for comparison:
 
-| Model | Equation                                      | Description                |
+| Model | Equation                                      | Predictors                |
 |-------|-----------------------------------------------|----------------------------|
 | A     | ŷ = 143.773 + 1.276 x₂ − 1.025 x₄          | Incline level & Age        |
 | B     | ŷ = 154.444 − 1.102 x₄                      | Age only                   |
